@@ -1,1 +1,6 @@
-该项目由vue-cli+webpack快速搭建
+Interview-demo
+该项目由vue-cli脚手架+webpack快速搭建
+Home首页即为演示页
+使用flex完成页面布局，使用vuedraggable完成主要拖拽功能
+推荐使用yarn安装依赖
+npm run serve启动服务
